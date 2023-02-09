@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "14798189-5cf8-47cd-82d2-dc0418860fcf",
+      "item_name": "Manggo Juice",
+      "price": "5000"
+    },
+    {
+      "id": "77178155-5ca6-485a-9f9a-ab463a0291a0",
+      "item_name": "Papaya Juice",
+      "price": "8000"
+    },
+    {
+      "id": "ba3886ae-cf16-485f-b5b2-1ead96b3f0a1",
+      "item_name": "Banana Juice",
+      "price": "10000"
+    },
+    {
+      "id": "a012b61c-fe46-4b84-bb58-456e1b4f11ac",
+      "item_name": "Naga Fruit Juice ",
+      "price": "10000"
+    },
+    {
+      "id": "730d0f9a-6c8d-4575-bb9b-9410f2087355",
+      "item_name": "Start Fruit Juice",
+      "price": "5000"
+    },
+    {
+      "id": "5c7df6e6-92d5-4f70-b919-2ee7f3de0451",
+      "item_name": "Sirsak Juice",
+      "price": "1000"
+    }
+  ]
+}
